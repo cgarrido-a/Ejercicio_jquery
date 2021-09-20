@@ -1,0 +1,49 @@
+.alert{
+    width: 50%;
+    border-radius: 5px;
+    border: 1px solid #AAA;
+    background-color: #EEE;
+    padding: 10px;
+}
+
+.alert-close{
+    text-align: right;
+    margin-top: -10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn{
+    border-radius: 0.25rem;
+    color: #FFF;
+    background-color: blue;
+    border-color: blue;
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+
+}
+
+.collapse-container{
+    display: none;
+    width: 50%;
+    padding: 1%;
+    border: 1px solid gray;
+    margin-top: 4px;
+}
+
+.btn-accordion{
+    width: 100%;
+    color: #FFF;
+    background-color:blue;
+    border-color: #007bff;
+    text-align: left;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.collapse-accordion{
+    padding: 10px;
+    border: 1px solid #AAA;
+    display: none;
+}
